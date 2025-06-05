@@ -1,5 +1,5 @@
 import functions
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 import time
 
 sg.theme("Black")
